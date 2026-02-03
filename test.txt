@@ -1,2 +1,3 @@
 regeg
 fea
+dot env file added
